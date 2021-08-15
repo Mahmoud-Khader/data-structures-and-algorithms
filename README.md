@@ -10,7 +10,7 @@ Under the `javascript` folder, at the top level, is a sub-folder called `code-ch
 
 Each day, you'll add one new file to this folder to do your work for the day's assigned code challenge
 
-If you have not already done so, run `npm install` from within this folder to setup your system to be able to run tests using `Jest`
+If you have not alCodey done so, run `npm install` from within this folder to setup your system to be able to run tests using `Jest`
 
 To run your tests
 
@@ -21,3 +21,24 @@ To run your tests
 ### 401 Data Structures, Code Challenges
 
 - Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
+
+## Table of Code Challenge files
+
+| Code files      | link |
+| ----------- | ----------- |
+| Code01      | [Link 1]()      |
+| Code02      | [Link 2]()      |
+| Code03      | [Link 3]()      |
+| Code04      | [Link 4]()      |
+| Code05      | [Link 5]()      |
+| Code06      | [Link 6]()      |
+| Code07      | [Link 7]()      |
+| Code08      | [Link 8]()      |
+| Code09      | [Link 9]()      |
+| Code10      | [Link 10]()      |
+| Code11      | [Link 11]()      |
+| Code12      | [Link 12]()      |
+| Code13      | [Link 13]()      |
+| Code14      | [Link 14]()      |
+| Code15      | [Link 15]()      |
+| Code16      | [Link 15]()      |
