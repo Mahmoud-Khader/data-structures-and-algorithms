@@ -26,9 +26,9 @@ To run your tests
 
 | Code files      | link |
 | ----------- | ----------- |
-| Code01      | [Link 1](https://github.com/Mahmoud-Khader/data-structures-and-algorithms/tree/main/401-code-challenge/Code01)      |
-<!-- | Code02      | [Link 2]()      |
-| Code03      | [Link 3]()      |
+| Code01      | [Reverse Array](https://github.com/Mahmoud-Khader/data-structures-and-algorithms/tree/main/401-code-challenge/Code01)      |
+| Code02      | [array-insert-shift](https://github.com/Mahmoud-Khader/data-structures-and-algorithms/tree/main/401-code-challenge/Code02)      |
+<!-- | Code03      | [Link 3]()      |
 | Code04      | [Link 4]()      |
 | Code05      | [Link 5]()      |
 | Code06      | [Link 6]()      |
